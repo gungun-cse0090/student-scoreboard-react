@@ -42,22 +42,9 @@ src/
 
 ---
 
-## ▶️ How to Run
-
-1. Install dependencies:
-   npm install
-
-2. Start development server:
-   npm run dev
-
-3. Open in browser:
-   http://localhost:5173/
-
----
-
 ## 🌐 Live Demo
 
-(Add your Netlify link here)
+(https://astonishing-gelato-b883e4.netlify.app)
 
 ---
 
@@ -70,6 +57,3 @@ src/
 ## 👨‍💻 Author
 
 Gungun Srivastav
-
-This project is created as part of Web Development II (React) Lab Assignment.
-
